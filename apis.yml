@@ -1,82 +1,21 @@
+aid: rasyonet
 name: Rasyonet
 description: Rasyonet is a digital platform providing APIs for grocery and retail services, enabling developers to integrate shopping, inventory, and delivery functionalities.
-image: https://www.rasyonet.com/logo.png
-url: https://www.rasyonet.com
-created: '2024'
-modified: '2024'
+type: Index
+url: https://raw.githubusercontent.com/api-evangelist/rasyonet/refs/heads/main/apis.yml
 tags:
-- grocery
-- retail
-- shopping
-- delivery
-- e-commerce
-apis:
-- name: Rasyonet Products API
-  description: API for accessing product catalog, pricing, and inventory information
-  image: https://www.rasyonet.com/api-products-logo.png
-  humanURL: https://www.rasyonet.com/products
-  baseURL: https://api.rasyonet.com/v1/products
-  tags:
-  - products
-  - inventory
-  - catalog
-  properties:
-  - type: Documentation
-    url: https://docs.rasyonet.com/products
-  - type: OpenAPI
-    url: https://api.rasyonet.com/openapi/products.json
-  - type: Authentication
-    url: https://docs.rasyonet.com/authentication
-- name: Rasyonet Orders API
-  description: API for creating and managing customer orders and transactions
-  image: https://www.rasyonet.com/api-orders-logo.png
-  humanURL: https://www.rasyonet.com/orders
-  baseURL: https://api.rasyonet.com/v1/orders
-  tags:
-  - orders
-  - transactions
-  - checkout
-  properties:
-  - type: Documentation
-    url: https://docs.rasyonet.com/orders
-  - type: OpenAPI
-    url: https://api.rasyonet.com/openapi/orders.json
-  - type: Authentication
-    url: https://docs.rasyonet.com/authentication
-- name: Rasyonet Delivery API
-  description: API for managing delivery scheduling, tracking, and logistics
-  image: https://www.rasyonet.com/api-delivery-logo.png
-  humanURL: https://www.rasyonet.com/delivery
-  baseURL: https://api.rasyonet.com/v1/delivery
-  tags:
+  - grocery
+  - retail
+  - shopping
   - delivery
-  - logistics
-  - tracking
-  properties:
-  - type: Documentation
-    url: https://docs.rasyonet.com/delivery
-  - type: OpenAPI
-    url: https://api.rasyonet.com/openapi/delivery.json
-  - type: Authentication
-    url: https://docs.rasyonet.com/authentication
+  - e-commerce
+created: '2024-01-01'
+modified: '2026-03-16'
+specificationVersion: '0.19'
+apis: []
 common:
-- type: Portal
-  url: https://developer.rasyonet.com
-- type: SignUp
-  url: https://developer.rasyonet.com/signup
-- type: Authentication
-  url: https://docs.rasyonet.com/authentication
-- type: Terms of Service
-  url: https://www.rasyonet.com/terms
-- type: Privacy Policy
-  url: https://www.rasyonet.com/privacy
-- type: Status
-  url: https://status.rasyonet.com
-- type: Support
-  url: https://support.rasyonet.com
-- type: Contact
-  url: https://www.rasyonet.com/contact
+  - type: Website
+    url: https://www.rasyonet.com/
 maintainers:
-- FN: Rasyonet API Team
-  email: api@rasyonet.com
-  url: https://developer.rasyonet.com
+  - FN: Kin Lane
+    email: kin@apievangelist.com
