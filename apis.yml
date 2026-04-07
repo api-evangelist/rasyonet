@@ -4,11 +4,11 @@ description: Rasyonet is a digital platform providing APIs for grocery and retai
 type: Index
 url: https://raw.githubusercontent.com/api-evangelist/rasyonet/refs/heads/main/apis.yml
 tags:
-  - grocery
-  - retail
-  - shopping
-  - delivery
-  - e-commerce
+  - Delivery
+  - E-Commerce
+  - Grocery
+  - Retail
+  - Shopping
 created: '2024-01-01'
 modified: '2026-03-16'
 specificationVersion: '0.19'
