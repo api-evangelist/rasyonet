@@ -1,7 +1,12 @@
 aid: rasyonet
 name: Rasyonet
-description: Rasyonet is a digital platform providing APIs for grocery and retail services, enabling developers to integrate shopping, inventory, and delivery functionalities.
+description: >-
+  Rasyonet is a Turkish digital platform serving the grocery and retail sector.
+  No public developer API or machine-readable specification has been documented
+  on the public website at this time.
 type: Index
+position: Consuming
+access: 3rd-Party
 url: https://raw.githubusercontent.com/api-evangelist/rasyonet/refs/heads/main/apis.yml
 tags:
   - Delivery
@@ -10,7 +15,7 @@ tags:
   - Retail
   - Shopping
 created: '2024-01-01'
-modified: '2026-03-16'
+modified: '2026-04-28'
 specificationVersion: '0.19'
 apis: []
 common:
