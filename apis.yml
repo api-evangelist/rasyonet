@@ -32,6 +32,8 @@ modified: '2026-05-02'
 specificationVersion: '0.19'
 apis: []
 common:
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/rasyonet
   - type: Website
     url: https://www.rasyonet.com.tr/en
   - type: Website
