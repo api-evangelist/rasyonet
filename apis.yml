@@ -43,7 +43,7 @@ tags:
   - E-Commerce
   - Equity Research
   - Financial Data
-  - Financial-Services
+  - Financial Services
   - Fintech
   - Grocery
   - Investment Management
@@ -62,6 +62,7 @@ tags_raw:
   - Portfolio Analytics
   - Retail
   - Turkey
+  - Financial-Services
 created: '2024-01-01'
 modified: '2026-05-02'
 specificationVersion: '0.23'
