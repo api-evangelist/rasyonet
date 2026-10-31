@@ -64,51 +64,80 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Rasyonet is a Turkish fintech company providing integrated financial software solutions and capital markets data platforms for institutional clients, asset managers, and financial analysts. Founded in 2000 and headquartered at ITU ARI Teknopark in Istanbul, Rasyonet offers tools for analyzing global equity markets, economic indicators, mutual and pension funds, fixed-income securities, portfolio analytics, and automated financial reporting.
+Rasyonet is a Turkish fintech company providing integrated financial software solutions and capital markets data platforms for institutional clients, asset managers, and financial analysts. Founded in 2000 and headquartered at ITU ARI Teknopark in Istanbul, Rasyonet offers tools for analyzing global equity markets, economic indicators, mutual and pension funds, fixed-income securities, portfolio analytics, and automated financial reporting. Their flagship EquityRT platform delivers equity research, company valuation, and peer benchmarking capabilities via desktop and Excel integration. No public developer API or machine-readable specification has been documented at this time.
 
-Their flagship **EquityRT** platform delivers equity research, company valuation, peer benchmarking, and portfolio performance capabilities via desktop and Excel integration, serving the local and international financial markets.
+**Areas:** Capital Markets · E-Commerce · Equity Research · Financial Data · Financial Services · Fintech · Grocery · Investment Management · Portfolio Analytics · Retail · Turkey
 
-**No public developer API or machine-readable specification has been documented at this time.**
+## Rasyonet on APIs.io
 
-**URL:** [Visit APIs.json](https://raw.githubusercontent.com/api-evangelist/rasyonet/refs/heads/main/apis.yml)
+Everything profiled for Rasyonet is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/rasyonet/](https://apis.io/providers/rasyonet/)** — or go straight to one of the APIs or properties below.
 
-## Scope
+### Published properties
 
-- **Type:** Index
-- **Position:** Consuming
-- **Access:** 3rd-Party
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
 
-## Tags
+#### Security (1)
 
-Capital Markets, E-Commerce, Equity Research, Financial Data, Financial Services, Fintech, Investment Management, Portfolio Analytics, Retail, Turkey
+Authentication, trust centre, and vulnerability disclosure.
 
-## Timestamps
+- [Rasyonet Domain Security](https://apis.io/security/rasyonet/rasyonet-domain-security/)
 
-- **Created:** 2024-01-01
-- **Modified:** 2026-05-02
+## Where to find this API
 
-## APIs
-
-No public APIs have been documented at this time.
-
-## Products
-
-- **Global Stock Markets** — Access to world financial markets and stock exchanges
-- **Global Economic Indicators** — Turkish and global economic data platform
-- **Mutual Funds and Pension Funds** — Fund performance comparison tools
-- **Automated Reporting and Dissemination** — Financial stakeholder communications
-- **Fixed Income Securities** — Emerging market bond valuation
-- **Portfolio Analytics** — Risk management, compliance monitoring, and performance attribution
-- **EquityRT** — Equity research, company valuation, financial analysis, and peer benchmarking
-
-## Common Properties
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
 
 - [Website](https://www.rasyonet.com.tr/en)
-- [Website](https://www.rasyonet.com/)
-- [Platform](https://www.equityrt.com/)
+- [Blog](https://www.rasyonet.com.tr/en/news)
 
-## Maintainers
+## API Evangelist rating
 
-**FN:** Kin Lane
+**Kin Score 3.9** — minimal · rubric 0.24.0 · scored 2026-10-17
 
-**Email:** kin@apievangelist.com
+| Facet | Score |
+|---|---|
+| Discoverability | 48.2 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 2.4 |
+| Access clarity | 0.0 |
+
+**Agent readiness 0.0** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 5.9** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/rasyonet/](https://apis.io/providers/rasyonet/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Rasyonet: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/rasyonet/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
